@@ -1,0 +1,4 @@
+name: Stark
+version: '${project.version}'
+main: io.github.kacpersdev.Stark
+api-version: 1.18
